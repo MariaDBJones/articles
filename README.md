@@ -7,7 +7,7 @@ Please find here a copy my articles/interviews/interventions from whichever medi
 * [Three simple rules not to fail (too much) your data design](https://github.com/SylvainA77/articles/blob/main/Three-rules-not-fail-data-design.md)  
 
 
-## Conferences slides
+## Conference slides
 * [Extend MariaDB with userèdefined functions](https://fr.slideshare.net/slideshow/extending-mariadb-with-userdefined-functions/135046794)
 * [Deploying MariaDB for extreme scale](https://fr.slideshare.net/slideshow/deploying-mariadb-for-extreme-scale/134978907)  
 
