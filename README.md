@@ -8,7 +8,8 @@ Please find here a copy my articles/interviews/interventions from whichever medi
 
 
 ## Slides from conferences
-* [Extend MariaDB with userèdefined functions](https://fr.slideshare.net/slideshow/extending-mariadb-with-userdefined-functions/135046794)   
+* [Extend MariaDB with userèdefined functions](https://fr.slideshare.net/slideshow/extending-mariadb-with-userdefined-functions/135046794)
+* [Deploying MariaDB for extreme scale](https://fr.slideshare.net/slideshow/deploying-mariadb-for-extreme-scale/134978907)  
 
 ## Video interviews
 * Interview BFM Business  
