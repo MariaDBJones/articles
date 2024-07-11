@@ -4,7 +4,7 @@ Please find here a copy my articles/interviews/interventions from whichever medi
 ## Text articles
 * [MariaDB is so much more than a simple MySQL fork](https://github.com/SylvainA77/articles/blob/main/MariaDB%3A-more-than-MySQL-fork.md)  
 * [DBAs not dead (punk !)](https://github.com/SylvainA77/articles/blob/main/dba-not-dead.md)  
-* [Three simple rules not to fail (too much) your data design]((  
+* [Three simple rules not to fail (too much) your data design](https://github.com/SylvainA77/articles/blob/main/Three-rules-not-fail-data-design.md)  
 
 
 ## Slides from conferences
