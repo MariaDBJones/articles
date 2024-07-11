@@ -13,6 +13,7 @@ Please find here a copy my articles/interviews/interventions from whichever medi
 
 ## Videos
 * [Mon interview BFM Business](https://www.bfmtv.com/economie/replay-emissions/trajectoire/trajectoire-ar-bau-die-it-expertise-en-bdd-pour-decideurs-28-11_VN-202311280113.html)  
-
+  
+---
 
 Mentioned in [![Mentioned in Awesome MariaDB](https://awesome.re/mentioned-badge.svg)](https://github.com/Vettabase/awesome-mariadb)
