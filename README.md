@@ -11,7 +11,7 @@ Please find here a copy my articles/interviews/interventions from whichever medi
 * [Extend MariaDB with userèdefined functions](https://fr.slideshare.net/slideshow/extending-mariadb-with-userdefined-functions/135046794)
 * [Deploying MariaDB for extreme scale](https://fr.slideshare.net/slideshow/deploying-mariadb-for-extreme-scale/134978907)  
 
-## Video interviews
+## Videos
 * [Mon interview BFM Business](https://www.bfmtv.com/economie/replay-emissions/trajectoire/trajectoire-ar-bau-die-it-expertise-en-bdd-pour-decideurs-28-11_VN-202311280113.html)  
 
 
