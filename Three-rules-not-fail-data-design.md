@@ -19,4 +19,11 @@ An attribute is an intrinsic characteristic or property of the item represented 
 
 By adhering to these fundamental principles of database design you can create a robust, efficient, and easy-to-maintain database. Applying these principles through a methodical design process, including identifying items, defining attributes, and normalizing data, ensures a clear, organized, and effective database schema. Of course there are sometimes need for other data design structure such as snowflake or star schema but that's another discussion.
 
+---
+
 published in linkedin : https://www.linkedin.com/pulse/three-simple-rules-fail-too-much-foundations-your-data-arbaudie-7vkwf/
+
+
+---
+
+Mentioned in [![Mentioned in Awesome MariaDB](https://awesome.re/mentioned-badge.svg)](https://github.com/Vettabase/awesome-mariadb)
