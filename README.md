@@ -6,6 +6,10 @@ Please find here a copy my articles/interviews/interventions from whichever medi
 * [DBAs not dead (punk !)](https://github.com/SylvainA77/articles/blob/main/dba-not-dead.md)  
 * [Three simple rules not to fail (too much) your data design](https://github.com/SylvainA77/articles/blob/main/Three-rules-not-fail-data-design.md)  
 
+## significant Linkedin posts
+* [future of databases](https://www.linkedin.com/posts/sylvain-arbaudie_dont-believe-the-big-database-hype-stonebraker-activity-7216835754117730304-jfQ1)
+* [UUIDs as PK](https://www.linkedin.com/posts/sylvain-arbaudie_the-impact-of-uuid-and-ulid-as-primary-keys-activity-7167944343020892160-9Peh)
+* [MariaDB can do it all](https://www.linkedin.com/posts/sylvain-arbaudie_database-architecture-mariadb-activity-7116079333642747904-HSGf)
 
 ## Conference slides
 * [Extend MariaDB with userèdefined functions](https://fr.slideshare.net/slideshow/extending-mariadb-with-userdefined-functions/135046794)
