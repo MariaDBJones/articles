@@ -22,4 +22,8 @@ Just like the DBAs did.
 
 Just like the Devops will.
 
+---
+
 published on linkedin : {https://www.linkedin.com/pulse/dbas-dead-punk-sylvain-arbaudie-o5w7e/]'https://www.linkedin.com/pulse/dbas-dead-punk-sylvain-arbaudie-o5w7e/)
+
+---
