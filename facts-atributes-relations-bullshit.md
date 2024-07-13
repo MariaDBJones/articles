@@ -69,3 +69,12 @@ The most infamous false friend is age. Despite being seemingly intrinsic age is 
 
 ### Conclusion
 Using natural language in this structured approach  ensures that you correctly identify the core entities (facts) in your database design, providing a solid foundation for further detailing and implementation. Beware to truly addressing the caveats and being aware of false friends. By strictly following thoise guidelines profesionnals in carge of data design can effectively identify and define attributes that accurately represent the data requirements of the system, fostering a robust and reliable database schema.
+
+---
+
+published in linkedin : 
+
+
+---
+
+Mentioned in [![Mentioned in Awesome MariaDB](https://awesome.re/mentioned-badge.svg)](https://github.com/Vettabase/awesome-mariadb)
