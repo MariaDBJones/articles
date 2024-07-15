@@ -1,5 +1,5 @@
 # How to disintguish facts, attributes and relations from bullshit ?
-We've seen in me previous post ( who said rant ? ) how to easily normalize database items the right way, but how do we know what's what ? It is crucial to clearly define and differentiate between facts, attributes, and relationships to create an efficient and evolutive design . Here’s how you can identify each component and filter out unnecessary information. 
+We've seen in my [previous post](https://www.linkedin.com/posts/sylvain-arbaudie_data-database-performance-activity-7216745403877060608-m6CG/) ( who said rant ? ) how to easily normalize database items the right way, but how do we know what's what ? It is crucial to clearly define and differentiate between facts, attributes, and relationships to create an efficient and evolutive design . Here’s how you can identify each component and filter out unnecessary information. 
 
 ### Know the domain
 It should make perfect sense that nobody ever created a decent data design on a domain it didn't know beforehand. To gaher that knowledge or learnt he missing bits : collect detailed requirements from stakeholders to understand what data needs to be stored and how it will be used. Without this intimate knowledge, it is impossible to filter out unnecessary information ( aka bullshit ). 
