@@ -4,7 +4,7 @@ No we have defined our facts, their attributes and the relations that unites all
 Not really. The complete guide to build a good schema can be summlarized as :
 "Normalize unitil it breaks, denormalize until it works". Let the fun begin !!!
 
-So what is demnormalization ? What is it for ? Sounds like undoing what we did in the first place uh ?
+So what is denormalization ? What is it for ? Sounds like undoing what we did in the first place uh ?
 
 Denormalization is the process of intentionally introducing redundancy into a database by combining tables or adding some degrees of redundancy to optimize read performance. It is often used to improve query performance in read-heavy databases where the cost of frequent joins between normalized tables outweighs the benefits of eliminating redundancy. Balancing the trade-offs between normalized and denormalized structures is key to effective database design. It is in fact the most important skill of a schema designer.
 
@@ -24,7 +24,16 @@ Technical tokens are not attributes of a fact in the sense of a business constra
 
 ### Usefull simplifications
 
+In some cases a strict adherence to normalization will lead to having unecessary informations stored into the database. Let's get back to the exmaple of phone number. While it is definitly not an attribute of the owner, her's how it should be stored : 
+facts : human, device, phone line
+attributes : phone mline : phone number
+relations : possession : linking human and device, attachment : linking device and phone line.
 
+This is only usefull for a phone operator in order to manage its systems.
+
+So for most needs we will either create a phonenumber table or a more global communication table in which we can store mails, phone numbers, social network handles, type them and even indicate the preferred way of being reached out to ( call, mail, text, whatsapp, dm on social networks, etc ).
+
+Same goes for the address. Put it in a separate table and type the different addresses ( mailing, invcoiing, delivery etc )
 
 ### Managing relations
 
