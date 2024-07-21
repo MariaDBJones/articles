@@ -37,9 +37,24 @@ Same goes for the address. Put it in a separate table and type the different add
 
 ### Managing relations
 
-on to one ( 1:1)
-on to many (1:n)
-n:n
+Now, let's shift our focus to relationships, which should be represented by tables containing pairs of primary keys (PKs). Technically, we can distinguish three types of relationships: one-to-one (1:1), one-to-many (1:n), and many-to-many (n:n).
 
-The strange case of foreign keys (aka referential integrity contraints ) and integrity constraints
+While there isn't much that can be done about many to many (n:n) relationships in terms of optimization, there are straightforward ways to optimize one to one (1:1) and one to many (1:n) relationships.
 
+For 1:n relationships, the approach is to store the primary key from the "one" side in a column on the "many" side table. For example, consider a scenario with clients and their addresses. Each address belongs to only one client, but a client can have multiple addresses. In this case, the relationship would be represented by adding a column containing the client's primary key in the address table.
+
+The same approach applies to 1:1 relationships. For instance, a SIM card is linked to a single phone number, but the number can theoretically be reassigned to a different SIM card. This relationship could be represented by adding a column in the phone line table containing the primary key of the SIM card.
+
+
+#### The strange case of Dr relation and Mister constraint
+
+In database design, foreign keys exhibit a dual nature akin to the characters in "The Strange Case of Dr. Jekyll and Mr. Hyde." Dr. Relation represents the role of establishing meaningful connections between tables, reflecting real-world associations and enhancing the logical structure of the database. He ensures that related entities are accurately modeled, facilitating effective data querying.
+
+On the other hand, Mr. Constraint embodies the enforcement of data integrity. He enforces rules to maintain referential integrity, preventing anomalies such as orphan records and ensuring consistency across tables. Mr. Constraint manages cascading actions to align changes in one table with related data in another.
+
+Together, Dr. Relation and Mr. Constraint ensure that a database is both well-structured and reliable, balancing the creation of logical connections with the enforcement of data consistency and integrity. Many would say that their interplay is essential for maintaining a robust and accurate relational database system. I disagree with this view and firmly believe constraintrs should be upheld in the app layers and that only the relations should be materialized in a database.
+But this is a strictly personal view and i will develop the why, pros and cons in a separate article ( yes you read that right, a whole article on that topic alone).
+
+Here comes the end of this third article on how to design a relational schema bringing sustainability, evolutivity and performance tp the table.
+
+Next chapter will focus on the relation between attributes, data types and performance.
