@@ -5,7 +5,8 @@ Please find here a copy my articles/interviews/interventions from whichever medi
 * [MariaDB is so much more than a simple MySQL fork](https://github.com/SylvainA77/articles/blob/main/MariaDB%3A-more-than-MySQL-fork.md)  
 * [DBAs not dead (punk !)](https://github.com/SylvainA77/articles/blob/main/dba-not-dead.md)  
 * [Three simple rules not to fail (too much) your data design](https://github.com/SylvainA77/articles/blob/main/Three-rules-not-fail-data-design.md)
-* [facts attributes and bullshit](https://github.com/SylvainA77/articles/blob/main/facts-atributes-relations-bullshit.md) 
+* [facts attributes and bullshit](https://github.com/SylvainA77/articles/blob/main/facts-atributes-relations-bullshit.md)
+* [Let the fun begin](https://www.linkedin.com/pulse/let-fun-begins-sylvain-arbaudie-utspe/?trackingId=30lGQWrj7EZIBfswzsy1%2FQ%3D%3D)
 
 ## significant Linkedin posts
 * [future of databases](https://www.linkedin.com/posts/sylvain-arbaudie_dont-believe-the-big-database-hype-stonebraker-activity-7216835754117730304-jfQ1)
