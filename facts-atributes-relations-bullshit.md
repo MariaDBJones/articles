@@ -72,8 +72,7 @@ Using natural language in this structured approach  ensures that you correctly i
 
 ---
 
-published in linkedin : 
-
+published in linkedin : https://www.linkedin.com/pulse/how-distinguish-facts-attributes-relations-from-sylvain-arbaudie-pmx1e/
 
 ---
 
