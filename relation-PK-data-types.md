@@ -13,13 +13,11 @@ Selecting appropriate data types for database attributes is crucial for performa
 ### Storage Efficiency
 
 - **Space Utilization**: Proper data types minimize storage requirements.
-  - *Example*: Using `TINYINT` instead of `INT` for small numbers.
 - **Compression**: Some data types support better compression.
 
 ### Data Integrity
 
 - **Validation**: Enforcing data integrity through data types.
-  - *Example*: Using `DATE` for date fields ensures only valid dates are entered.
 - **Range Limits**: Setting limits with numeric types prevents invalid data.
 
 ### Maintainability and Readability
