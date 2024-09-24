@@ -2,11 +2,11 @@
 Please find here a copy my articles/interviews/interventions from whichever medias they were published on.
 
 ## Articles
-* [MariaDB is so much more than a simple MySQL fork](https://github.com/SylvainA77/articles/blob/main/MariaDB%3A-more-than-MySQL-fork.md) [on Linkedin]()  
-* [DBAs not dead (punk !)](https://github.com/SylvainA77/articles/blob/main/dba-not-dead.md) [on Linkedin](  
-* [Three simple rules not to fail (too much) your data design](https://github.com/SylvainA77/articles/blob/main/Three-rules-not-fail-data-design.md) [on Linkedin]()
-* [facts attributes and bullshit](https://github.com/SylvainA77/articles/blob/main/facts-atributes-relations-bullshit.md)  [on Linkedin]()
-* [Let the fun begin]() [on Linkedin](https://www.linkedin.com/pulse/let-fun-begins-sylvain-arbaudie-utspe/)
+* [MariaDB is so much more than a simple MySQL fork](https://github.com/SylvainA77/articles/blob/main/MariaDB%3A-more-than-MySQL-fork.md) [on Linkedin](https://www.linkedin.com/pulse/mariadb-so-much-more-than-just-mysql-fork-sylvain-arbaudie-blfpf)  
+* [DBAs not dead (punk !)](https://github.com/SylvainA77/articles/blob/main/dba-not-dead.md) [on Linkedin](https://www.linkedin.com/pulse/dbas-dead-punk-sylvain-arbaudie-o5w7e)  
+* [Three simple rules not to fail (too much) your data design](https://github.com/SylvainA77/articles/blob/main/Three-rules-not-fail-data-design.md) [on Linkedin](https://www.linkedin.com/pulse/three-simple-rules-fail-too-much-foundations-your-data-arbaudie-7vkwf)
+* [facts attributes and bullshit](https://github.com/SylvainA77/articles/blob/main/facts-atributes-relations-bullshit.md) [on Linkedin](https://www.linkedin.com/pulse/how-distinguish-facts-attributes-relations-from-sylvain-arbaudie-pmx1e)
+* [Let the fun begin](https://github.com/SylvainA77/articles/blob/main/now-let-fun-begin.md) [on Linkedin](https://www.linkedin.com/pulse/let-fun-begins-sylvain-arbaudie-utspe/)
 * [Cave Adminem](https://github.com/SylvainA77/articles/blob/main/cave-adminem.md) [on LinkedIn](https://www.linkedin.com/pulse/cave-adminem-sylvain-arbaudie-6dzfe)
 
 ## significant Linkedin posts
