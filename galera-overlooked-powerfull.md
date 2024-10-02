@@ -19,8 +19,7 @@ Write-set replication is a key feature of Galera Cluster that ensures data consi
 Once a write-set arrives at a node, it undergoes a certification process. 
 This certification is a crucial step that determines whether the transaction can be applied without conflicts. The process checks if the write-set conflicts with any transactions that have been committed since the original transaction began. If no conflicts are detected, the transaction is committed on all nodes, maintaining consistency across the entire cluster. This combination of write-set replication and certification ensures that all nodes in the Galera Cluster remain synchronized and consistent, even in the face of concurrent writes to different nodes.
 
-<img>
-Certification-based replication mechanism
+![Certification-based replication mechanism](https://media.licdn.com/dms/image/v2/D4E12AQGx-ox_no3YiQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1727679274457?e=1733356800&v=beta&t=tlj-l0VmdJUr4AFQKOSt0RHQGdRRWSMdBxqN4EIsOA4)
 
 # What is it for ?
 Galera Cluster excels in scenarios demanding:
