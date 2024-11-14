@@ -7,8 +7,12 @@ Please find here a copy my articles/interviews/interventions from whichever medi
 * [Three simple rules not to fail (too much) your data design](https://github.com/SylvainA77/articles/blob/main/Three-rules-not-fail-data-design.md) // [Linkedin original](https://www.linkedin.com/pulse/three-simple-rules-fail-too-much-foundations-your-data-arbaudie-7vkwf)
 * [facts attributes and bullshit](https://github.com/SylvainA77/articles/blob/main/facts-atributes-relations-bullshit.md) // [Linkedin original](https://www.linkedin.com/pulse/how-distinguish-facts-attributes-relations-from-sylvain-arbaudie-pmx1e)
 * [Let the fun begin](https://github.com/SylvainA77/articles/blob/main/now-let-fun-begin.md) // [Linkedin original](https://www.linkedin.com/pulse/let-fun-begins-sylvain-arbaudie-utspe/)
-* [Cave Adminem](https://github.com/SylvainA77/articles/blob/main/cave-adminem.md) // [LinkedIn original](https://www.linkedin.com/pulse/cave-adminem-sylvain-arbaudie-6dzfe)
+* [Cave Adminem](https://github.com/SylvainA77/articles/blob/main/cave-adminem.md) // [LinkedIn original](https://www.linkedin.com/pulse/cave-adminem-sylvain-arbaudie-6dzfe) // [Medium original](https://medium.com/@arbaudie.it/cave-adminem-7c97503f289c)
 * [Galera : often overlooked, still powerful](https://github.com/SylvainA77/articles/blob/main/galera-overlooked-powerfull.md) // [Linkedin original](https://www.linkedin.com/pulse/galera-often-overlooked-still-powerful-sylvain-arbaudie-aabce/)
+* Galera : understanding flow Control // [Medium original](https://medium.com/@arbaudie.it/galera-understanding-flow-control-8775890b1332)
+* Let's go physical(ly seprated) // [Linkedin original](https://www.linkedin.com/pulse/lets-go-physically-separated-sylvain-arbaudie-yzu3f/) // [Medium original](https://medium.com/@arbaudie.it/lets-go-physical-ly-separated-f810cca50f8e)
+* MMQ : MariaDB as a Message Queue // [Medium original](https://medium.com/@arbaudie.it/mmq-mariadb-as-a-messsage-queue-c4e1e0ef339c) 
+
 
 ## significant Linkedin posts
 * [future of databases](https://www.linkedin.com/posts/sylvain-arbaudie_dont-believe-the-big-database-hype-stonebraker-activity-7216835754117730304-jfQ1)
@@ -21,9 +25,14 @@ Please find here a copy my articles/interviews/interventions from whichever medi
 * [Extend MariaDB with user-defined functions](https://fr.slideshare.net/slideshow/extending-mariadb-with-userdefined-functions/135046794)
 * [Deploying MariaDB for extreme scale](https://fr.slideshare.net/slideshow/deploying-mariadb-for-extreme-scale/134978907)  
 
+## misc referenceshttps://www.databasetimes.com/
+* [Last in Data, the weekly newsletter of Database Times](https://www.databasetimes.com/)
+* [Planet MariaDB](https://mariadb.org/planet/)
+
 ## Videos/podcasts
 * [Mon interview BFM Business](https://www.bfmtv.com/economie/replay-emissions/trajectoire/trajectoire-ar-bau-die-it-expertise-en-bdd-pour-decideurs-28-11_VN-202311280113.html)
-* [IFTTD #156 : MariaDB, from primary to sharding](https://www.ifttd.io/episodes/maria-db) 
+* [IFTTD #156 : MariaDB, from primary to sharding](https://www.ifttd.io/episodes/maria-db)
+* [IFTTD #297 : Une BDD pour toutes les gouverner](https://www.ifttd.io/episodes/convergence-des-bdd)
   
 ---
 
