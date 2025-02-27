@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}  # Use your PAT for checkout
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -33,3 +35,6 @@ jobs:
           git add .
           git diff --quiet && git diff --staged --quiet || git commit -m "Update Medium articles [skip ci]"
           git push
+        env:
+          # Use the PAT for the push operation
+          GITHUB_TOKEN: ${{ secrets.PAT }}
