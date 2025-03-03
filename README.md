@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-03-02 01:40:38 UTC
+Last updated: 2025-03-03 01:39:00 UTC
 
 - [InnoDB deep dive : commit phase](articles/innodb-deep-dive-commit-phase.md) - Mon, 24 Feb 2025 14:33:23 GMT
 - [New Year Reality Check: Slowing Down to better Move Forward](articles/new-year-reality-check-slowing-down-to-better-move-forward.md) - Wed, 12 Feb 2025 17:30:32 GMT
