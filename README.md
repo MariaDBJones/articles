@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-04-07 01:43:52 UTC
+Last updated: 2025-04-08 01:41:31 UTC
 
 - [Preventing data theft : Galera edition](articles/preventing-data-theft-galera-edition.md) - Wed, 12 Mar 2025 15:54:32 GMT
 - [InnoDB deep dive : commit phase](articles/innodb-deep-dive-commit-phase.md) - Mon, 24 Feb 2025 14:33:23 GMT
