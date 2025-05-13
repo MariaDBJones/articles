@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-05-12 01:50:52 UTC
+Last updated: 2025-05-13 01:48:23 UTC
 
 - [Uncle bob vs SQL](articles/uncle-bob-vs-sql.md) - Sat, 03 May 2025 04:35:34 GMT
 - [Preventing data theft : Galera edition](articles/preventing-data-theft-galera-edition.md) - Wed, 12 Mar 2025 15:54:32 GMT
