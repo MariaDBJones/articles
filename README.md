@@ -1,7 +1,8 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-05-18 01:53:55 UTC
+Last updated: 2025-05-19 01:53:12 UTC
 
+- [is SQL a high level API](articles/is-sql-a-high-level-api.md) - Sun, 18 May 2025 16:37:52 GMT
 - [Uncle bob vs SQL](articles/uncle-bob-vs-sql.md) - Sat, 03 May 2025 04:35:34 GMT
 - [Preventing data theft : Galera edition](articles/preventing-data-theft-galera-edition.md) - Wed, 12 Mar 2025 15:54:32 GMT
 - [InnoDB deep dive : commit phase](articles/innodb-deep-dive-commit-phase.md) - Mon, 24 Feb 2025 14:33:23 GMT
@@ -11,4 +12,3 @@ Last updated: 2025-05-18 01:53:55 UTC
 - [Embrace simplicity](articles/embrace-simplicity.md) - Thu, 09 Jan 2025 16:48:51 GMT
 - [DBAs not dead ( punk ) !](articles/dbas-not-dead-punk.md) - Sun, 15 Dec 2024 18:08:25 GMT
 - [Ma Madeleine de Proust](articles/ma-madeleine-de-proust.md) - Fri, 13 Dec 2024 18:38:30 GMT
-- [Enhancing MariaDB’s Capabilities part 2](articles/enhancing-mariadbs-capabilities-part-2.md) - Mon, 09 Dec 2024 13:54:57 GMT
