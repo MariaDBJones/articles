@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-05-26 01:51:38 UTC
+Last updated: 2025-05-27 01:47:38 UTC
 
 - [is SQL a high level API](articles/is-sql-a-high-level-api.md) - Sun, 18 May 2025 16:37:52 GMT
 - [Uncle bob vs SQL](articles/uncle-bob-vs-sql.md) - Sat, 03 May 2025 04:35:34 GMT
