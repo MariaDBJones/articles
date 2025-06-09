@@ -1,7 +1,8 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-06-08 01:58:53 UTC
+Last updated: 2025-06-09 01:56:12 UTC
 
+- [Cybersec : MariaDB, round2](articles/cybersec-mariadb-round2.md) - Sun, 08 Jun 2025 17:08:44 GMT
 - [is SQL a high level API](articles/is-sql-a-high-level-api.md) - Sun, 18 May 2025 16:37:52 GMT
 - [Uncle bob vs SQL](articles/uncle-bob-vs-sql.md) - Sat, 03 May 2025 04:35:34 GMT
 - [Preventing data theft : Galera edition](articles/preventing-data-theft-galera-edition.md) - Wed, 12 Mar 2025 15:54:32 GMT
@@ -11,4 +12,3 @@ Last updated: 2025-06-08 01:58:53 UTC
 - [It’s all about the attitude](articles/its-all-about-the-attitude.md) - Tue, 14 Jan 2025 19:00:00 GMT
 - [Embrace simplicity](articles/embrace-simplicity.md) - Thu, 09 Jan 2025 16:48:51 GMT
 - [DBAs not dead ( punk ) !](articles/dbas-not-dead-punk.md) - Sun, 15 Dec 2024 18:08:25 GMT
-- [Ma Madeleine de Proust](articles/ma-madeleine-de-proust.md) - Fri, 13 Dec 2024 18:38:30 GMT
