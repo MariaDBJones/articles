@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-06-10 01:52:16 UTC
+Last updated: 2025-06-11 01:51:38 UTC
 
 - [Cybersec : MariaDB, round2](articles/cybersec-mariadb-round2.md) - Sun, 08 Jun 2025 17:08:44 GMT
 - [is SQL a high level API](articles/is-sql-a-high-level-api.md) - Sun, 18 May 2025 16:37:52 GMT
