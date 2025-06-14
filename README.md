@@ -1,7 +1,8 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-06-13 01:51:09 UTC
+Last updated: 2025-06-14 01:47:14 UTC
 
+- [Personal opinion : the future of Galera Cluster](articles/personal-opinion-the-future-of-galera-cluster.md) - Fri, 13 Jun 2025 11:14:08 GMT
 - [Cybersec : MariaDB, round2](articles/cybersec-mariadb-round2.md) - Sun, 08 Jun 2025 17:08:44 GMT
 - [is SQL a high level API](articles/is-sql-a-high-level-api.md) - Sun, 18 May 2025 16:37:52 GMT
 - [Uncle bob vs SQL](articles/uncle-bob-vs-sql.md) - Sat, 03 May 2025 04:35:34 GMT
@@ -11,4 +12,3 @@ Last updated: 2025-06-13 01:51:09 UTC
 - [Json2SQL : a simple RESTful API for MariaDB](articles/json2sql-a-simple-restful-api-for-mariadb.md) - Fri, 17 Jan 2025 16:04:49 GMT
 - [It’s all about the attitude](articles/its-all-about-the-attitude.md) - Tue, 14 Jan 2025 19:00:00 GMT
 - [Embrace simplicity](articles/embrace-simplicity.md) - Thu, 09 Jan 2025 16:48:51 GMT
-- [DBAs not dead ( punk ) !](articles/dbas-not-dead-punk.md) - Sun, 15 Dec 2024 18:08:25 GMT
