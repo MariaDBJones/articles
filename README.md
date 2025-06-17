@@ -1,7 +1,8 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-06-16 01:55:04 UTC
+Last updated: 2025-06-17 01:51:47 UTC
 
+- [Personal opinion : Maxscale license change](articles/personal-opinion-maxscale-license-change.md) - Mon, 16 Jun 2025 11:33:50 GMT
 - [Personal opinion : the future of Galera Cluster](articles/personal-opinion-the-future-of-galera-cluster.md) - Fri, 13 Jun 2025 11:14:08 GMT
 - [Cybersec : MariaDB, round2](articles/cybersec-mariadb-round2.md) - Sun, 08 Jun 2025 17:08:44 GMT
 - [is SQL a high level API](articles/is-sql-a-high-level-api.md) - Sun, 18 May 2025 16:37:52 GMT
@@ -11,4 +12,3 @@ Last updated: 2025-06-16 01:55:04 UTC
 - [New Year Reality Check: Slowing Down to better Move Forward](articles/new-year-reality-check-slowing-down-to-better-move-forward.md) - Wed, 12 Feb 2025 17:30:32 GMT
 - [Json2SQL : a simple RESTful API for MariaDB](articles/json2sql-a-simple-restful-api-for-mariadb.md) - Fri, 17 Jan 2025 16:04:49 GMT
 - [It’s all about the attitude](articles/its-all-about-the-attitude.md) - Tue, 14 Jan 2025 19:00:00 GMT
-- [Embrace simplicity](articles/embrace-simplicity.md) - Thu, 09 Jan 2025 16:48:51 GMT
