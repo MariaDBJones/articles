@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-06-17 01:51:47 UTC
+Last updated: 2025-06-18 01:50:52 UTC
 
 - [Personal opinion : Maxscale license change](articles/personal-opinion-maxscale-license-change.md) - Mon, 16 Jun 2025 11:33:50 GMT
 - [Personal opinion : the future of Galera Cluster](articles/personal-opinion-the-future-of-galera-cluster.md) - Fri, 13 Jun 2025 11:14:08 GMT
