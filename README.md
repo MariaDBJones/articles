@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-06-26 01:51:34 UTC
+Last updated: 2025-06-27 01:52:44 UTC
 
 - [Personal opinion : Maria what ?](articles/personal-opinion-maria-what.md) - Sat, 21 Jun 2025 16:47:46 GMT
 - [Personal opinion : Maxscale license change](articles/personal-opinion-maxscale-license-change.md) - Mon, 16 Jun 2025 11:33:50 GMT
