@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-07-05 01:48:02 UTC
+Last updated: 2025-07-06 02:00:46 UTC
 
 - [Toying around with MariaDB : query cache edition](articles/toying-around-with-mariadb-query-cache-edition.md) - Mon, 30 Jun 2025 13:02:05 GMT
 - [Personal opinion : Maria what ?](articles/personal-opinion-maria-what.md) - Sat, 21 Jun 2025 16:47:46 GMT
