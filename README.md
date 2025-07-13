@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-07-12 01:57:41 UTC
+Last updated: 2025-07-13 02:06:00 UTC
 
 - [making MariaDB cloud native : a (fairy ?) tale of decoupling compute from storage](articles/making-mariadb-cloud-native-a-fairy-tale-of-decoupling-compute-from-storage.md) - Wed, 09 Jul 2025 10:21:10 GMT
 - [Toying around with MariaDB : query cache edition](articles/toying-around-with-mariadb-query-cache-edition.md) - Mon, 30 Jun 2025 13:02:05 GMT
