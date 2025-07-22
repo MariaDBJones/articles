@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-07-21 02:04:48 UTC
+Last updated: 2025-07-22 01:59:10 UTC
 
 - [I beat the MariaDB optimizer: from  94 seconds to just 55 milliseconds](articles/i-beat-the-mariadb-optimizer-from-94-seconds-to-just-55-milliseconds.md) - Tue, 15 Jul 2025 06:10:48 GMT
 - [making MariaDB cloud native : a (fairy ?) tale of decoupling compute from storage](articles/making-mariadb-cloud-native-a-fairy-tale-of-decoupling-compute-from-storage.md) - Wed, 09 Jul 2025 10:21:10 GMT
