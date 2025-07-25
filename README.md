@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-07-24 01:58:57 UTC
+Last updated: 2025-07-25 01:58:50 UTC
 
 - [Bad data design leads to poor performances: from 105 minutes to 17 seconds](articles/bad-data-design-leads-to-poor-performances-from-105-minutes-to-17-seconds.md) - Wed, 23 Jul 2025 18:34:38 GMT
 - [I beat the MariaDB optimizer: from  94 seconds to just 55 milliseconds](articles/i-beat-the-mariadb-optimizer-from-94-seconds-to-just-55-milliseconds.md) - Tue, 15 Jul 2025 06:10:48 GMT
