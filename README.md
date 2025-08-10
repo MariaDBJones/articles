@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-08-09 01:52:02 UTC
+Last updated: 2025-08-10 02:06:14 UTC
 
 - [MaxScale: Much More Than a Reverse SQL Proxy (part 1)](articles/maxscale-much-more-than-a-reverse-sql-proxy-part-1.md) - Thu, 31 Jul 2025 16:43:36 GMT
 - [Bad data design leads to poor performances: from 105 minutes to 17 seconds](articles/bad-data-design-leads-to-poor-performances-from-105-minutes-to-17-seconds.md) - Wed, 23 Jul 2025 18:34:38 GMT
