@@ -1,7 +1,8 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-08-22 01:45:11 UTC
+Last updated: 2025-08-23 01:41:43 UTC
 
+- [MLM : comment ca marche, critique du modèle et comment détecter les arnaques](articles/mlm-comment-ca-marche-critique-du-modèle-et-comment-détecter-les-arnaques.md) - Fri, 22 Aug 2025 12:16:43 GMT
 - [MaxScale: Much More Than a Reverse SQL Proxy (part 1)](articles/maxscale-much-more-than-a-reverse-sql-proxy-part-1.md) - Thu, 31 Jul 2025 16:43:36 GMT
 - [Bad data design leads to poor performances: from 105 minutes to 17 seconds](articles/bad-data-design-leads-to-poor-performances-from-105-minutes-to-17-seconds.md) - Wed, 23 Jul 2025 18:34:38 GMT
 - [I beat the MariaDB optimizer: from  94 seconds to just 55 milliseconds](articles/i-beat-the-mariadb-optimizer-from-94-seconds-to-just-55-milliseconds.md) - Tue, 15 Jul 2025 06:10:48 GMT
@@ -11,4 +12,3 @@ Last updated: 2025-08-22 01:45:11 UTC
 - [Personal opinion : Maxscale license change](articles/personal-opinion-maxscale-license-change.md) - Mon, 16 Jun 2025 11:33:50 GMT
 - [Personal opinion : the future of Galera Cluster](articles/personal-opinion-the-future-of-galera-cluster.md) - Fri, 13 Jun 2025 11:14:08 GMT
 - [Cybersec : MariaDB, round2](articles/cybersec-mariadb-round2.md) - Sun, 08 Jun 2025 17:08:44 GMT
-- [is SQL a high level API](articles/is-sql-a-high-level-api.md) - Sun, 18 May 2025 16:37:52 GMT
