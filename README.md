@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-08-23 01:41:43 UTC
+Last updated: 2025-08-24 01:55:11 UTC
 
 - [MLM : comment ca marche, critique du modèle et comment détecter les arnaques](articles/mlm-comment-ca-marche-critique-du-modèle-et-comment-détecter-les-arnaques.md) - Fri, 22 Aug 2025 12:16:43 GMT
 - [MaxScale: Much More Than a Reverse SQL Proxy (part 1)](articles/maxscale-much-more-than-a-reverse-sql-proxy-part-1.md) - Thu, 31 Jul 2025 16:43:36 GMT
