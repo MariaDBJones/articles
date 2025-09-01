@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-08-31 01:47:07 UTC
+Last updated: 2025-09-01 01:56:45 UTC
 
 - [Personal opinion : MariaDB (re)acquires SkySQL](articles/personal-opinion-mariadb-reacquires-skysql.md) - Fri, 29 Aug 2025 00:22:44 GMT
 - [MaxScale: Much More Than a Reverse SQL Proxy (part 1)](articles/maxscale-much-more-than-a-reverse-sql-proxy-part-1.md) - Thu, 31 Jul 2025 16:43:36 GMT
