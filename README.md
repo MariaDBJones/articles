@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2025-09-14 01:44:31 UTC
+Last updated: 2025-09-15 01:45:54 UTC
 
 - [MaxScale: much more than a reverse SQL proxy (part 2)
 a nerdy yet comprehensive presentation](articles/maxscale-much-more-than-a-reverse-sql-proxy-part-2-a-nerdy-yet-comprehensive-presentation.md) - Mon, 01 Sep 2025 14:52:36 GMT
