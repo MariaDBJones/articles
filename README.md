@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2026-01-28 02:01:53 UTC
+Last updated: 2026-01-29 02:23:49 UTC
 
 - [No, you probably dont need Kubernetes](articles/no-you-probably-dont-need-kubernetes.md) - Wed, 29 Oct 2025 14:31:30 GMT
 - [MaxScale: much more than a reverse SQL proxy (part 2)
