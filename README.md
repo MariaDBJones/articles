@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2026-02-25 02:30:05 UTC
+Last updated: 2026-02-26 02:25:49 UTC
 
 - [Let’s go physical(ly separated)](articles/lets-go-physically-separated.md) - Wed, 18 Feb 2026 09:44:18 GMT
 - [No, you probably dont need Kubernetes](articles/no-you-probably-dont-need-kubernetes.md) - Wed, 29 Oct 2025 14:31:30 GMT
