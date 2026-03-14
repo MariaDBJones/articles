@@ -1,6 +1,6 @@
 # arbaudie.it's Medium Articles
 
-Last updated: 2026-03-13 02:25:48 UTC
+Last updated: 2026-03-14 02:23:44 UTC
 
 - [SQLSTATE [HY000] [2006] Galera has gone away](articles/sqlstate-hy000-2006-galera-has-gone-away.md) - Fri, 27 Feb 2026 13:28:55 GMT
 - [Let’s go physical(ly separated)](articles/lets-go-physically-separated.md) - Wed, 18 Feb 2026 09:44:18 GMT
